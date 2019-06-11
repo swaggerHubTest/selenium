@@ -11,7 +11,7 @@ info:
     name: Apache 2.0
     url: http://www.apache.org/licenses/LICENSE-2.0.html
 host: dev-virtserver.swaggerhub.com
-basePath: /Sel_162051140331_Org/Sel_API_1223779/1.0.0
+basePath: /Sel_162054916431_Org/Sel_API_4926570/1.0.0
 tags:
 - name: pet
   description: Everything about your Pets
