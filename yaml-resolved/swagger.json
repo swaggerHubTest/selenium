@@ -11,7 +11,7 @@ info:
     name: Apache 2.0
     url: http://www.apache.org/licenses/LICENSE-2.0.html
 host: cbt-onprem.swaggerhub.com
-basePath: /virts/Sel_170213710971_Org/Sel_API_3752643/1.0.0
+basePath: /virts/Sel_170223432183_Org/Sel_API_3512797/1.0.0
 tags:
 - name: pet
   description: Everything about your Pets
