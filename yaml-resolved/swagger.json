@@ -10,8 +10,8 @@ info:
   license:
     name: Apache 2.0
     url: http://www.apache.org/licenses/LICENSE-2.0.html
-host: cbt-onprem.swaggerhub.com
-basePath: /virts/Sel_177213539458_Org/Sel_API_3620436/1.0.0
+host: petstore.swagger.io
+basePath: /v2
 tags:
 - name: pet
   description: Everything about your Pets
@@ -26,7 +26,6 @@ tags:
     description: Find out more about our store
     url: http://swagger.io
 schemes:
-- https
 - http
 paths:
   /pet:
