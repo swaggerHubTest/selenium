@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2043
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IO.Swagger", "src\IO.Swagger\IO.Swagger.csproj", "{51E1F817-E561-4AD1-A559-B75FBBB793F1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IO.Swagger", "src\IO.Swagger\IO.Swagger.csproj", "{5800F834-FF3D-41D6-9AB4-77E11A267DE7}"
 EndProject
 Global
     GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
         Release|Any CPU = Release|Any CPU
     EndGlobalSection
     GlobalSection(ProjectConfigurationPlatforms) = postSolution
-        {51E1F817-E561-4AD1-A559-B75FBBB793F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-        {51E1F817-E561-4AD1-A559-B75FBBB793F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-        {51E1F817-E561-4AD1-A559-B75FBBB793F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-        {51E1F817-E561-4AD1-A559-B75FBBB793F1}.Release|Any CPU.Build.0 = Release|Any CPU
+        {5800F834-FF3D-41D6-9AB4-77E11A267DE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {5800F834-FF3D-41D6-9AB4-77E11A267DE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {5800F834-FF3D-41D6-9AB4-77E11A267DE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {5800F834-FF3D-41D6-9AB4-77E11A267DE7}.Release|Any CPU.Build.0 = Release|Any CPU
     EndGlobalSection
     GlobalSection(SolutionProperties) = preSolution
         HideSolutionNode = FALSE
