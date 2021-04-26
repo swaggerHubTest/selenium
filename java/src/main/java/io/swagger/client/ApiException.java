@@ -15,7 +15,7 @@ package io.swagger.client;
 import java.util.Map;
 import java.util.List;
 
-@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2021-04-26T14:27:00.449Z[GMT]")public class ApiException extends Exception {
+@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2021-04-26T17:37:40.391Z[GMT]")public class ApiException extends Exception {
     private int code = 0;
     private Map<String, List<String>> responseHeaders = null;
     private String responseBody = null;
