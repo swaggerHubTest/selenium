@@ -12,14 +12,15 @@
 
 package io.swagger.client.api;
 
-import io.swagger.client.ApiException;
 import org.junit.Test;
 import org.junit.Ignore;
+
 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+
 
 /**
  * API tests for DefaultApi
@@ -34,11 +35,11 @@ public class DefaultApiTest {
      *
      * This is an example operation to show how security is applied to the call.
      *
-     * @throws ApiException
+     * @throws Exception
      *          if the Api call fails
      */
     @Test
-    public void exampleGetTest() throws ApiException {
+    public void exampleGetTest() throws Exception {
         api.exampleGet();
 
         // TODO: test validations
@@ -48,11 +49,11 @@ public class DefaultApiTest {
      *
      * This operation shows how to override the global security defined above, as we want to open it up for all users.
      *
-     * @throws ApiException
+     * @throws Exception
      *          if the Api call fails
      */
     @Test
-    public void pingGetTest() throws ApiException {
+    public void pingGetTest() throws Exception {
         api.pingGet();
 
         // TODO: test validations
