@@ -2,7 +2,7 @@
 
 Sample Application Flow OAuth2 Project
 - API version: 1.0.0
-  - Build date: 2022-03-22T18:49:04.203Z[GMT]
+  - Build date: 2022-03-22T22:47:53.946Z[GMT]
 
 This is an example of using OAuth2 Application Flow in a specification to describe security to your API.
 
