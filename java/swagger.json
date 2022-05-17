@@ -22,7 +22,7 @@
   "defaultContentType" : "application/json",
   "channels" : {
     "smartylighting.streetlights.1.0.event.{streetlightId}.lighting.measured" : {
-      "description" : "The topic on which measured values may be produced and consumed.",
+      "description" : "The topic on which measured values may be produced and consumed123.",
       "parameters" : {
         "streetlightId" : {
           "$ref" : "#/components/parameters/streetlightId"
