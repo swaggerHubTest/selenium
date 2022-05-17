@@ -29,7 +29,7 @@
         }
       },
       "publish" : {
-        "summary" : "Inform about environmental lighting conditions of a particular streetlightabc.",
+        "summary" : "Inform about environmental lighting conditions of a particular streetlightabc1234.",
         "operationId" : "receiveLightMeasurement",
         "traits" : [ {
           "$ref" : "#/components/operationTraits/kafka"
