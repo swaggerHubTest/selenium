@@ -8,8 +8,8 @@
       "type" : "object",
       "properties" : {
         "id" : {
-          "type" : "integer",
-          "format" : null,
+          "type" : "inte",
+          "format" : "int64",
           "examples" : [ 14 ]
         },
         "name" : {
