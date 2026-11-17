@@ -46,7 +46,7 @@
           "enum" : [ "available", "pending", "sold" ]
         }
       },
-      "required" : [ "name", 123 ],
+      "required" : [ "name", "photoUrls" ],
       "xml" : {
         "name" : "pet"
       },
@@ -60,7 +60,7 @@
       "then" : {
         "properties" : {
           "photoUrls" : {
-            "minItems" : -1
+            "minItems" : 1
           }
         }
       },
