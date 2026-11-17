@@ -43,7 +43,7 @@
         "status" : {
           "type" : "string",
           "description" : "pet status in the store",
-          "enum" : [ "available", "pending", "sold" ]
+          "enum" : "available"
         }
       },
       "required" : [ "name", "photoUrls" ],
