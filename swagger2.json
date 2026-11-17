@@ -17,7 +17,7 @@
           "examples" : [ "doggie" ]
         },
         "category" : {
-          "$ref" : "#/$defs/InvalidCategory"
+          "$ref" : "#/$defs/Category"
         },
         "photoUrls" : {
           "type" : "array",
